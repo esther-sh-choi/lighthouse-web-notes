@@ -2,6 +2,4 @@
 
 ## Summary
 
-This repository contains all of the notes taken by Esther for the Lighthouse Labs Web Development Bootcamp.
-
-[Esther](https://github.com/esther-sh-choi)
+This repository contains all of the notes taken by [Esther](https://github.com/esther-sh-choi) for the Lighthouse Labs Web Development Bootcamp.
